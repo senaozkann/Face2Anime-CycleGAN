@@ -72,7 +72,7 @@ Aşağıdaki tabloda modelin dönüştürme sonuçlarının şematik yapısı g�
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/animeokey.git
+git clone https://github.com/senaozkann/animeokey.git
 cd animeokey
 ```
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 CycleGAN: Human Face <-> Anime Face Translation
+# 🎨 Face2Anime-CycleGAN: Human Face <-> Anime Face Translation
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -72,8 +72,8 @@ Aşağıdaki tabloda modelin dönüştürme sonuçlarının şematik yapısı g�
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/senaozkann/animeokey.git
-cd animeokey
+git clone https://github.com/senaozkann/Face2Anime-CycleGAN.git
+cd Face2Anime-CycleGAN
 ```
 
 2. Sanal ortam oluşturup etkinleştirin (Önerilir):

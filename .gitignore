@@ -1,0 +1,43 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Sanal Ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Veri Setleri (GitHub dosya limiti ve boyut şişmesini engellemek için)
+anime/
+insan/
+datasets/
+data/
+*.zip
+*.tar.gz
+
+# Model Ağırlıkları ve Checkpoint'ler
+checkpoints/
+*.h5
+*.keras
+*.ckpt*
+*.pt
+*.pth
+
+# Eğitim Çıktıları ve Loglar
+outputs/
+logs/
+*.log
+.tensorboard/
+
+# IDE & İşletim Sistemi Dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
